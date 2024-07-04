@@ -33,18 +33,18 @@
 
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+<a href="https://github.com/angelluna03030">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?angelluna03030=Davekibh&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+<a href="https://github.com/angelluna03030">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelluna03030&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
 <br/>
 <br/>
 <br/>
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelluna03030&show_icons=true&locale=en" alt="angelluna03030" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelluna03030&" alt="angelluna03030" /></p>
