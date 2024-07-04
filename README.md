@@ -24,7 +24,7 @@
 
 - 💬 Pregúntame sobre **React, Flutter, Next.js**-
 
-📫 Cómo contactarme **angelstivengarcialuna@gmail.com**
+- 📫 Cómo contactarme **angelstivengarcialuna@gmail.com**
 
 
 <p align="left">
