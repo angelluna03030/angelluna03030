@@ -47,4 +47,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelluna03030&" alt="angelluna03030" /></p>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=angelluna03030&theme=material-palenight)](https://github.com/angelluna03030)
+
