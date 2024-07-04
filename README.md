@@ -1,5 +1,12 @@
 <h1 align="center">Hola 👋, soy Angel Steven Garcia Luna</h1>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h3 align="center">"Desarrollador web y móvil full-stack, apasionado autodidacta, siempre buscando la mejora continua y el aprendizaje constante." </h3>
+
 
 
 - 🔭 Actualmente estoy trabajando en **DELUXE**-
