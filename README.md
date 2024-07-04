@@ -32,11 +32,7 @@
 
 
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelluna03030&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;">
-</div>
+
 
 <a href="https://github.com/angelluna03030">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelluna03030&theme=tokyonight" />
@@ -49,8 +45,15 @@
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
 
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=angelluna03030&theme=material-palenight)](https://github.com/angelluna03030)
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelluna03030&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;">
+</div>
