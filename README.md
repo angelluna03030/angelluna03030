@@ -7,17 +7,20 @@
 
 <h3 align="center">"Desarrollador web y móvil full-stack, apasionado autodidacta, siempre buscando la mejora continua y el aprendizaje constante." </h3>
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=1450&height=100&lines=Estudiando+programación+en+Colombia+%F0%9F%87%A8%F0%9F%87%B4+y+en+internet+%F0%9F%93%9A%2C+con+pasión+y+dedicación.+Siempre+aprendiendo+y+creciendo+%F0%9F%8E%93">
+</h3>
 
 
 - 🔭 Actualmente estoy trabajando en **DELUXE**-
 
-🌱 Actualmente estoy aprendiendo **Flutter, RUTS y React.**
+- 🌱 Actualmente estoy aprendiendo **Flutter, RUTS y React.**
 
 - 👯 Estoy buscando colaborar en **Desarrollo de Mobile, Web, Cloud Computing**
 
 - 🤝 Estoy buscando ayuda con **Flutter**-
 
-👨 💻 Todos mis proyectos están disponibles en [https://portafoliowebangelluna.vercel.app/](https://portafoliowebangelluna.vercel.app/)
+- 👨 💻 Todos mis proyectos están disponibles en [https://portafoliowebangelluna.vercel.app/](https://portafoliowebangelluna.vercel.app/)
 
 - 💬 Pregúntame sobre **React, Flutter, Next.js**-
 
