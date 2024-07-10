@@ -62,8 +62,6 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelluna03030&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" style="border-radius: 15px;">
 </div>
-
-<br/>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:000000&height=100&section=footer"/>
 </p>
