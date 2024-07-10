@@ -40,7 +40,7 @@
 <a href="https://github.com/angelluna03030">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelluna03030&theme=tokyonight" />
 </a>
-
+<br/>
 <a href="https://github.com/angelluna03030">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelluna03030&show_icons=true&theme=tokyonight&line_height=27" alt="Angelluna's github stats"/>
 </a>
