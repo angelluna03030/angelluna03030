@@ -12,17 +12,17 @@
 </h3>
 
 
-- 🔭 Actualmente estoy trabajando en **DELUXE**-
+- 🔭 Actualmente estoy trabajando en **DELUXE.**
 
 - 🌱 Actualmente estoy aprendiendo **Flutter, RUTS y React.**
 
-- 👯 Estoy buscando colaborar en **Desarrollo de Mobile, Web, Cloud Computing**
+- 👯 Estoy buscando colaborar en **Desarrollo de Mobile, Web, Cloud Computing.**
 
-- 🤝 Estoy buscando ayuda con **Flutter**-
+- 🤝 Estoy buscando ayuda con **Flutter.**
 
 - 👨 💻 Todos mis proyectos están disponibles en [https://portafoliowebangelluna.vercel.app/](https://portafoliowebangelluna.vercel.app/)
 
-- 💬 Pregúntame sobre **React, Flutter, Next.js**-
+- 💬 Pregúntame sobre **React, Flutter, Next.js.**
 
 - 📫 Cómo contactarme **angelstivengarcialuna@gmail.com**
 
