@@ -14,7 +14,7 @@
 
 - 🔭 Actualmente estoy trabajando en **DELUXE.**
 
-- 🌱 Actualmente estoy aprendiendo **Flutter, RUTS y React.**
+- 🌱 Actualmente estoy aprendiendo **Flutter, TypeScript y React.**
 
 - 👯 Estoy buscando colaborar en **Desarrollo de Mobile, Web, Cloud Computing.**
 
