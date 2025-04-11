@@ -14,7 +14,7 @@
 
 - 🔭 Actualmente estoy trabajando en **MITOLOGY.**
 
-- 🌱 Actualmente estoy aprendiendo **Flutter, TypeScript y React.**
+- 🌱 Actualmente estoy aprendiendo **Flutter, TypeScript, React y RUTS.**
 
 - 👯 Estoy buscando colaborar en **Desarrollo de Mobile, Web, Cloud Computing.**
 
