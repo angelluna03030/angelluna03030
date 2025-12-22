@@ -22,7 +22,7 @@
 
 - 👨 💻 Todos mis proyectos están disponibles en [https://portafoliowebangelluna.vercel.app/](https://portafoliowebangelluna.vercel.app/)
 
-- 💬 Pregúntame sobre **React, Flutter, Next.js.**
+- 💬 Pregúntame sobre **React, Flutter, RUST.**
 
 - 📫 Cómo contactarme **angelstivengarcialuna@gmail.com**
 
