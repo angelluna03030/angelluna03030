@@ -58,7 +58,9 @@
 
 
 <div align="center">
-[![](https://github-readme-streak-stats.herokuapp.com/?user=angelluna03030&theme=material-palenight)](https://github.com/angelluna03030)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=angelluna03030&theme=material-palenight&hide_border=true)](https://github.com/angelluna03030)
+
 </div>
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
