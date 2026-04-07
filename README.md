@@ -12,7 +12,7 @@
 </h3>
 
 
-- 🔭 Actualmente estoy trabajando en **FINANCI.**
+- 🔭 Actualmente estoy trabajando en **Tienda Medica.**
 
 - 🌱 Actualmente estoy aprendiendo **Flutter, TypeScript, React y RUST.**
 
